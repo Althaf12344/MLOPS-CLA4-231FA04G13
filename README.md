@@ -1,4 +1,4 @@
-# ML Model Deployment Strategies and Model Serving using FastAPI
+# Using FastAPI ML Model Deployment Strategies and Model Serving 
 
 This project implements the tasks in the assignment document using the **Kaggle Titanic `train.csv` dataset**.
 
